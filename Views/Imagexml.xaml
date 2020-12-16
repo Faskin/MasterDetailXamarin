@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MasterDetailXamarin.Views.Imagexml">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout HorizontalOptions="Center">
+                <Label HorizontalTextAlignment="Center" FontSize="25" Text="Create a Image"></Label>
+                <Label HorizontalTextAlignment="Center" Text="Launch Visual Studio, and create a new blank Xamarin.Forms app named ImageTutorial. Ensure that the app uses .NET Standard as the shared code mechanism." ></Label>
+                <Label HorizontalTextAlignment="Center" BackgroundColor="CornflowerBlue" Text="Important
+
+The C# and XAML snippets in this tutorial requires that the solution is named ImageTutorial. Using a different name will result in build errors when you copy code from this tutorial into the solution."></Label>
+                <Label HorizontalTextAlignment="Center" Text="In Solution Explorer, in the ImageTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"> </Label>
+                <Image Source="imgxml.png"></Image>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

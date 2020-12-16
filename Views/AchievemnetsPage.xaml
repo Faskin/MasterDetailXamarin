@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MasterDetailXamarin.Views.AchievemnetsPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout HorizontalOptions="Center">
+            <Label Text="Step-by-step instructions for Windows" FontSize="25" HorizontalTextAlignment="Center"></Label>
+            <Label FontSize="Medium" HorizontalTextAlignment="Start"  Text="Follow these steps along with the video above:
+
+Choose File > New > Project... or press the Create new project... button:"></Label>
+           <Image Source="pervoe.png"></Image>
+            <Label FontSize="Medium" Text="Search for Xamarin or choose Mobile from the Project type menu. Select the Mobile App (Xamarin.Forms) project type:
+
+"></Label>
+            <Image Source="vtoroe.png"></Image>
+            <Label FontSize="Medium" Text="Choose a project name – the example uses AwesomeApp:"></Label>
+            <Image Source="tretye.png"></Image>
+            <Label FontSize="Medium" Text="Click on the Blank project type and ensure Android and iOS are selected:"></Label>
+            <Image Source="chetvertoe.png"></Image>
+            <Label FontSize="Medium" Text="Wait until the NuGet packages are restored (a Restore completed message will appear in the status bar).
+
+New Visual Studio 2019 installations won't have an Android emulator configured. Click the dropdown arrow on the Debug button and choose Create Android Emulator to launch the emulator creation screen:"></Label>
+            <Image Source="shestoe.png"></Image>
+            <Label FontSize="Medium" Text="In the emulator creation screen, use the default settings and click the Create button:"></Label>
+            <Image Source="sedmoe.png"></Image>
+            <Label FontSize="Medium" Text="Creating an emulator will return you to the Device Manager window. Click the Start button to launch the new emulator:"></Label>
+            <Image Source="vosmoe.png"></Image>
+            <Label FontSize="Medium" Text="Visual Studio 2019 should now show the name of the new emulator on the Debug button:"></Label>
+            <Image Source="devyatoe.png"></Image>
+            <Label FontSize="Medium" Text="Click the Debug button to build and deploy the application to the Android emulator:"></Label>
+            <Image Source="desyatoe.png"></Image>
+        </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

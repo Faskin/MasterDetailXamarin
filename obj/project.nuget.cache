@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HbwDFqGFAXgVEmzF4sqFoRzSKdS022YWCTe9ECdWoIwnMh4TSUHsBRHZ5WCQ/UbE5PwWR/SXFdATtCthcBWTqQ==",
+  "success": true,
+  "projectFilePath": "/Users/alekseistaiger/Projects/MasterDetailXamarin/MasterDetailXamarin/MasterDetailXamarin.csproj",
+  "expectedPackageFiles": [
+    "/Users/alekseistaiger/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/alekseistaiger/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/alekseistaiger/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/alekseistaiger/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/alekseistaiger/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": []
+}
