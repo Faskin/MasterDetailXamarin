@@ -4,13 +4,13 @@
         <ScrollView>
             <StackLayout HorizontalOptions="Center">
                 <Label Text="Create Grid Layout" HorizontalTextAlignment="Center" FontSize="25"></Label>
-                <Label HorizontalTextAlignment="Center" Text="Launch Visual Studio, and create a new blank Xamarin.Forms app named GridTutorial. Ensure that the app uses .NET Standard as the shared code mechanism."></Label>
+                <Label FontSize="Medium" HorizontalTextAlignment="Center" Text="Launch Visual Studio, and create a new blank Xamarin.Forms app named GridTutorial. Ensure that the app uses .NET Standard as the shared code mechanism."></Label>
                 <Label Text="Important
 
 The C# and XAML snippets in this tutorial requires that the solution is named GridTutorial. Using a different name will result in build errors when you copy code from this tutorial into the solution." BackgroundColor="CornflowerBlue"></Label>
-                <Label HorizontalTextAlignment="Center" Text="In Solution Explorer, in the GridTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"></Label>
+                <Label FontSize="Medium"  HorizontalTextAlignment="Center" Text="In Solution Explorer, in the GridTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"></Label>
                 <Image Source="gridlayxml.png"></Image>
-                <Label HorizontalTextAlignment="Center" Text="This code declaratively defines the user interface for the page, which consists of a Label in a Grid. By default, the Grid positions its child views in a single location. Therefore, a Grid that contains multiple children should specify columns and rows, which will be covered in the next exercise. In addition, the Margin property indicates the rendering position of the Grid within the ContentPage."></Label>
+                <Label FontSize="Medium"  HorizontalTextAlignment="Center" Text="This code declaratively defines the user interface for the page, which consists of a Label in a Grid. By default, the Grid positions its child views in a single location. Therefore, a Grid that contains multiple children should specify columns and rows, which will be covered in the next exercise. In addition, the Margin property indicates the rendering position of the Grid within the ContentPage."></Label>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

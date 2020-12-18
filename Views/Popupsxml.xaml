@@ -4,12 +4,12 @@
         <ScrollView>
             <StackLayout HorizontalOptions="Center">
                 <Label Text="Display a Pop-ups" HorizontalTextAlignment="Center" FontSize="25"></Label>
-                <Label HorizontalTextAlignment="Center" Text="Xamarin.Forms has a modal pop-up, known as an alert, to alert the user, or to ask simple questions of them. In this exercise, you will use the DisplayAlert method, from the Page class, to display an alert to the user, and to ask a simple question."></Label>
-                <Label HorizontalTextAlignment="Center" Text="Launch Visual Studio, and create a new blank Xamarin.Forms app named PopupsTutorial. Ensure that the app uses .NET Standard as the shared code mechanism." ></Label>
-                <Label HorizontalTextAlignment="Center" BackgroundColor="CornflowerBlue" Text="Important
+                <Label FontSize="Medium"  HorizontalTextAlignment="Center" Text="Xamarin.Forms has a modal pop-up, known as an alert, to alert the user, or to ask simple questions of them. In this exercise, you will use the DisplayAlert method, from the Page class, to display an alert to the user, and to ask a simple question."></Label>
+                <Label FontSize="Medium"  HorizontalTextAlignment="Center" Text="Launch Visual Studio, and create a new blank Xamarin.Forms app named PopupsTutorial. Ensure that the app uses .NET Standard as the shared code mechanism." ></Label>
+                <Label FontSize="Medium"  HorizontalTextAlignment="Center" BackgroundColor="CornflowerBlue" Text="Important
 
 The C# and XAML snippets in this tutorial requires that the solution is named PopupsTutorial. Using a different name will result in build errors when you copy code from this tutorial into the solution."></Label>
-                <Label HorizontalTextAlignment="Center" Text="In Solution Explorer, in the PopupsTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"></Label>
+                <Label FontSize="Medium"  HorizontalTextAlignment="Center" Text="In Solution Explorer, in the PopupsTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"></Label>
                 <Image Source="popups.png"></Image>
             </StackLayout>
         </ScrollView>

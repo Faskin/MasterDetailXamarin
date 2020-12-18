@@ -4,11 +4,11 @@
         <ScrollView>
             <StackLayout HorizontalOptions="Center">
                 <Label Text="Create a button" HorizontalTextAlignment="Center" FontSize="25"></Label>
-                <Label HorizontalTextAlignment="Center" Text="Launch Visual Studio, and create a new blank Xamarin.Forms app named ButtonTutorial. Ensure that the app uses .NET Standard as the shared code mechanism." ></Label>
-                <Label HorizontalTextAlignment="Center" Text="Important:
+                <Label FontSize="Medium" HorizontalTextAlignment="Center" Text="Launch Visual Studio, and create a new blank Xamarin.Forms app named ButtonTutorial. Ensure that the app uses .NET Standard as the shared code mechanism." ></Label>
+                <Label FontSize="Medium" HorizontalTextAlignment="Center" Text="Important:
 
 The C# and XAML snippets in this tutorial requires that the solution is named ButtonTutorial. Using a different name will result in build errors when you copy code from this tutorial into the solution." BackgroundColor="CornflowerBlue"></Label>
-                <Label HorizontalTextAlignment="Center" Text="In Solution Explorer, in the ButtonTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"></Label>
+                <Label FontSize="Medium" HorizontalTextAlignment="Center" Text="In Solution Explorer, in the ButtonTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"></Label>
                 <Image Source="buttonxml.png"></Image>
             </StackLayout>
         </ScrollView>

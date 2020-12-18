@@ -4,7 +4,7 @@
         <ScrollView>
             <StackLayout HorizontalOptions="Center">
                 <Label Text="Create a Stack layout" HorizontalTextAlignment="Center" FontSize="25"></Label>
-                <Label HorizontalTextAlignment="Center" Text="in Solution Explorer, in the StackLayoutTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"></Label>
+                <Label FontSize="Medium"  HorizontalTextAlignment="Center" Text="in Solution Explorer, in the StackLayoutTutorial project, double-click MainPage.xaml to open it. Then, in MainPage.xaml, remove all of the template code and replace it with the following code:"></Label>
                 <Image Source="stackl.png"></Image>
             </StackLayout>
         </ScrollView>
